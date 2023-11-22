@@ -4,7 +4,7 @@ function changeText() {
 }
 
 function sound(){
-    var snd = new Audio('k.mp3')//wav is also supported
+    var snd = new Audio('huh.mp3')//wav is also supported
     snd.play()//plays the sound
 }
 

@@ -19,7 +19,7 @@ function runAway() {
     var randomX = Math.random() * (windowWidth - button.offsetWidth);
     var randomY = Math.random() * (windowHeight - button.offsetHeight);
 
-    var snd = new Audio('huh-cat.mp3');
+    var snd = new Audio('huh.mp3');
     snd.play();
 
     // Set the button's position
